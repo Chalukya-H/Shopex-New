@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Shopex-New/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Shopex-New/static/js/main.dcf58300.chunk.js",
+    "main.js.map": "/Shopex-New/static/js/main.dcf58300.chunk.js.map",
+    "runtime-main.js": "/Shopex-New/static/js/runtime-main.59e4630b.js",
+    "runtime-main.js.map": "/Shopex-New/static/js/runtime-main.59e4630b.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Shopex-New/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7718402f.chunk.js": "/Shopex-New/static/js/2.7718402f.chunk.js",
+    "static/js/2.7718402f.chunk.js.map": "/Shopex-New/static/js/2.7718402f.chunk.js.map",
+    "index.html": "/Shopex-New/index.html",
+    "precache-manifest.311184d608e05f8848ef725a38041244.js": "/Shopex-New/precache-manifest.311184d608e05f8848ef725a38041244.js",
+    "service-worker.js": "/Shopex-New/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Shopex-New/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Shopex-New/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7718402f.chunk.js.LICENSE.txt": "/Shopex-New/static/js/2.7718402f.chunk.js.LICENSE.txt",
+    "static/media/Logo-1.PNG": "/Shopex-New/static/media/Logo-1.aaa53939.PNG",
+    "static/media/image1.jpg": "/Shopex-New/static/media/image1.2ef8e484.jpg",
+    "static/media/image2.jpg": "/Shopex-New/static/media/image2.e09ce4e7.jpg",
+    "static/media/image3.jpg": "/Shopex-New/static/media/image3.d1d39096.jpg",
+    "static/media/image4.jpg": "/Shopex-New/static/media/image4.2be7db46.jpg",
+    "static/media/image5.jpg": "/Shopex-New/static/media/image5.54ce5ec0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59e4630b.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7718402f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dcf58300.chunk.js"
+  ]
+}
