@@ -11,7 +11,7 @@ app.use(cors())
 
 // configDB()
 
-app.use('/api',router) // Updated for Heroku
+app.use('/',router) // Updated for Heroku
  
 //File Upload
 app.use("/upload", express.static("upload"));
